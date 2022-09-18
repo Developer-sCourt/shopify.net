@@ -1,4 +1,4 @@
-# shopify.net
+# shopify.net:white_check_mark:
 First team project, going in three phases, front-end, back end and testing
 > Nothing great ever starts from the top
 
